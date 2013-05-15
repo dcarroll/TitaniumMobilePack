@@ -1,0 +1,22 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/dcarroll/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone",
+	"appGuid": "6230c70b-dd08-4eac-ae64-db3139d98743",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "57634ef",
+	"name": "Todo List",
+	"id": "com.appcelerator.sample.todo",
+	"analytics": true,
+	"publisher": "tlukasavage",
+	"url": "http://appcelerator.com",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2011 by tlukasavage",
+	"guid": "6230c70b-dd08-4eac-ae64-db3139d98743",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}
